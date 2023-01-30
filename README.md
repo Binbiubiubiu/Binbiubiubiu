@@ -2,7 +2,7 @@
 
 FrontEnd Developer
 
-JavaScript & Dart & Rust 
+TypeScript & Dart & Go & Rust 
 
 wechat: lb8045
 
